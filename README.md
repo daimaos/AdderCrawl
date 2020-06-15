@@ -1,4 +1,5 @@
-# AdderCrawl
+# AdderCrawl: A browser for Nuerodiversity
+
 
 
 Dependencies:
